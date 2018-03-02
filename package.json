@@ -1,0 +1,14 @@
+{
+  "name": "kseiva-stack",
+  "version": "1.0.0",
+  "description": "Implementation of stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.spec.js"
+  },
+  "author": "Kseniya Ivanova",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
